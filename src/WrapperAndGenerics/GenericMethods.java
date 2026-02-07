@@ -7,6 +7,8 @@ public class GenericMethods {
         GenericMethods obj = new GenericMethods();
         // obj.doubledata("abc");
        obj.doubledata(123);
+
+
     }
     static <E> void printData(E data ){
         System.out.println(data);
