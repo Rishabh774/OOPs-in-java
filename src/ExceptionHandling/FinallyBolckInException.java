@@ -1,4 +1,4 @@
-package ExceprionHandling;
+package ExceptionHandling;
 
 public class FinallyBolckInException {
     public static void main(String[] args) {
