@@ -1,9 +1,22 @@
 package Collection_Framework;
+//Iterable (I)
+//        |
+//        Collection (I)
+//        __________________________________
+//        |          |          |            |
+//        List (I)    Set (I)   Queue (I)    Deque (I)
+//        |          |          |            |
+//        ---------   ---------   ---------   ---------
+//        |    |    | |    |    | |    |      |     |
+//        ArrayList   HashSet   PriorityQueue   ArrayDeque
+//        LinkedList  LinkedHashSet
+//        Vector      TreeSet
+//        Stack
 
 import java.util.ArrayList;
 import java.util.List;
-
-public class list {
+//  methods are of collection framework
+public class CollectionList {
     public static void main(String[] args) {
 
         // List interface ka object, ArrayList implementation ke saath
