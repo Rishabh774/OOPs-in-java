@@ -1,0 +1,37 @@
+✅ Core Java Topics
+
+🔹 Java Basics
+Introduction to Java, Features of Java, JDK JRE JVM, Data Types, Variables, Type Casting, Operators, Input/Output, Control Statements
+
+🔹 Object Oriented Programming (OOPS)
+Class & Object, Constructor, this keyword, static keyword, Inheritance, Polymorphism, Method Overloading, Method Overriding, Abstraction, Abstract Class, Interface, Encapsulation, super keyword
+
+🔹 String Handling
+String Class, StringBuffer, StringBuilder, String Immutability, equals() vs ==, hashCode()
+
+🔹 Arrays
+1D Array, 2D Array, Array vs ArrayList, Arrays Utility Class
+
+🔹 Exception Handling
+Exception Hierarchy, Checked Exception, Unchecked Exception, try-catch, finally, throw, throws, Custom Exception
+
+🔹 Wrapper Classes & Generics
+Wrapper Classes, Autoboxing, Unboxing, Generics, Generic Class, Generic Method
+
+🔹 Collection Framework
+Collection Framework Architecture, List Interface, ArrayList, LinkedList, Vector, Stack, Set Interface, HashSet, LinkedHashSet, TreeSet, Queue Interface, PriorityQueue, Deque, ArrayDeque, Map Interface, HashMap, LinkedHashMap, TreeMap, Iterator, ListIterator, Comparable, Comparator, Fail-Fast, Fail-Safe
+
+🔹 Multithreading
+Thread, Runnable, Thread Life Cycle, Synchronization, Inter-Thread Communication, Deadlock, Volatile Keyword
+
+🔹 File Handling
+File Class, FileReader, FileWriter, BufferedReader, BufferedWriter, Serialization, Deserialization
+
+🔹 Java 8 Features
+Lambda Expression, Functional Interface, Stream API, Method Reference, Optional Class, forEach()
+
+🔹 Important Keywords
+final, finally, finalize, transient, volatile, native, strictfp
+
+🔹 JVM Internals
+Class Loader, Heap Memory, Stack Memory, Method Area, Garbage Collection
